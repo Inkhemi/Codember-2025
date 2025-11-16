@@ -1,6 +1,6 @@
 # Codember 2025
 
-Hecho en python
+Soluciones a los retos de [Codember 2025](https://codember.dev/) en Python.
 
 | Columna 1 | Columna 2                 |
 | --------: | :------------------------ |
